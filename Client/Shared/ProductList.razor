@@ -1,0 +1,52 @@
+﻿
+<ul class="list-unstyled">
+    @foreach (var product in Products)
+		{
+			<li class="media my-3">
+				<div class="media-img-wrapper mr-2">
+					<a href="#">
+						<img class="media-img" src="@product.ImageUrl" alt="@product.Title" />
+					</a>	
+				</div>
+				<div class="media-body">
+					<a href="#">
+						<h4 class="mb-0">@product.Title</h4>
+					</a>
+					<p>@product.Description</p>
+					<h5 class="price">
+						$@product.Price
+					</h5>
+				</div>
+			</li>
+		}
+</ul>
+
+@code {
+	private static List<Product> Products = new List<Product>
+	{
+		 new Product
+		 {
+			 Id=1,
+			 Title="Hayvan Çiftliği",
+			 Description="Hayvan Çiftliği (orijinal adıyla Animal Farm); George Orwell'in mecazi bir dille yazılmış, fabl tarzındaki siyasi hiciv romanı. Roman ilk olarak 1945'te Birleşik Krallık'ta yayımlandı. 1996'da ise geçmiş tarihler için verilen Retro Hugo Ödülü'nü 1946 senesi için aldı.",
+			 ImageUrl="https://tr.wikipedia.org/wiki/Hayvan_%C3%87iftli%C4%9Fi#/media/Dosya:Hayvan_%C3%87iftli%C4%9Fi.jpg",
+			 Price= 9.99m
+		 },
+		 new Product
+		 {
+			 Id=2,
+			 Title="Bin Dokuz Yüz Seksen Dört",
+			 Description="Bin Dokuz Yüz Seksen Dört (özgün adı: Nineteen Eighty-Four), İngiliz yazar George Orwell tarafından kaleme alınmış olan alegorik, distopik ve politik bir romandır. Romanın hikâyesi distopik bir dünyada geçer. Distopya romanlarının en ünlülerindendir. Özellikle kitapta tanımlanan Big Brother (Büyük Birader) kavramı günümüzde de sıklıkla kullanılmaktadır. Aynı zamanda kitapta geçen  gibi kavramları da yazar George Orwell günümüze kazandırmıştır.",
+			 ImageUrl="https://tr.wikipedia.org/wiki/Bin_Dokuz_Y%C3%BCz_Seksen_D%C3%B6rt#/media/Dosya:1984.jpg",
+			 Price= 4.99m
+		 },
+		 new Product
+		 {
+			 Id=3,
+			 Title="Sefiller",
+			 Description="Sefiller (Fransızca: Les Misérables; Fransızca telaffuz: [le mizeʁabl(ə)]), Victor Hugo tarafından yazılan tarihi romandır. İlk olarak 1862'de yayınlandı. 19. yüzyılın en büyük eserlerinden biri olarak kabul gördü. İngilizce konuşulan ülkelerde başarısız çeviriler nedeniyle genellikle orijinal Fransız ismiyle anılır. Hikâye 1815'te başlar ve 1832'deki Paris Haziran İsyanı'nda son bulur. Birkaç karakterin yaşamını ve birbirleriyle alakasını ele alan roman daha çok eski mahkûm Jean Valjean'ın yaşam mücadelesi ve kefaretini ödemeye çalışmasına odaklanır.",
+			 ImageUrl="https://tr.wikipedia.org/wiki/Sefiller#/media/Dosya:Ebcosette.jpg",
+			 Price= 5.99m
+		 }
+	};
+}

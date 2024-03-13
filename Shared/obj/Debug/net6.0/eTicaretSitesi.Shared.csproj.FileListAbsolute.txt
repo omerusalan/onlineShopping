@@ -1,0 +1,12 @@
+C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Shared\bin\Debug\net6.0\eTicaretSitesi.Shared.deps.json
+C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Shared\bin\Debug\net6.0\eTicaretSitesi.Shared.dll
+C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Shared\bin\Debug\net6.0\eTicaretSitesi.Shared.pdb
+C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Shared\obj\Debug\net6.0\eTicaretSitesi.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Shared\obj\Debug\net6.0\eTicaretSitesi.Shared.AssemblyInfoInputs.cache
+C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Shared\obj\Debug\net6.0\eTicaretSitesi.Shared.AssemblyInfo.cs
+C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Shared\obj\Debug\net6.0\eTicaretSitesi.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Shared\obj\Debug\net6.0\eTicaretSitesi.Shared.dll
+C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Shared\obj\Debug\net6.0\refint\eTicaretSitesi.Shared.dll
+C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Shared\obj\Debug\net6.0\eTicaretSitesi.Shared.pdb
+C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Shared\obj\Debug\net6.0\ref\eTicaretSitesi.Shared.dll
+C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Shared\obj\Debug\net6.0\eTicaretSitesi.Shared.sourcelink.json
