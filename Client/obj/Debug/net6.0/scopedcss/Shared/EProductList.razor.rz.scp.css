@@ -1,0 +1,33 @@
+.media-img[b-e6xiteswvd]{
+    max-height: 200px;
+    max-width: 200px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    transition: transform .2s;
+}
+
+    .media-img:hover[b-e6xiteswvd] {
+        transform:scale(1.2)
+    }
+
+.media-img-wrapper[b-e6xiteswvd] {
+    width: 200px;
+    text-align: center;
+}
+
+.price[b-e6xiteswvd]{
+    color: green;
+}
+
+@media (max-width: 1023.98px){
+    .media[b-e6xiteswvd]{
+        flex-direction: column;
+    }
+
+    .media-img-wrapper[b-e6xiteswvd]{
+        width: 100%;
+        height: auto;
+    }
+
+
+}

@@ -37,6 +37,7 @@ C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Server\obj\Debug\net6.0\eTi
 C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Server\obj\Debug\net6.0\eTicaretSitesi.Server.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Server\obj\Debug\net6.0\eTicaretSitesi.Server.RazorAssemblyInfo.cache
 C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Server\obj\Debug\net6.0\eTicaretSitesi.Server.RazorAssemblyInfo.cs
+C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Server\obj\Debug\net6.0\eTicaretSitesi.Server.sourcelink.json
 C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Server\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Server\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Server\obj\Debug\net6.0\staticwebassets\msbuild.eTicaretSitesi.Server.Microsoft.AspNetCore.StaticWebAssets.props
@@ -45,10 +46,9 @@ C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Server\obj\Debug\net6.0\sta
 C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eTicaretSitesi.Server.props
 C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Server\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Server\obj\Debug\net6.0\scopedcss\bundle\eTicaretSitesi.Server.styles.css
-C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Server\obj\Debug\net6.0\eTicaretSitesi.Server.csproj.CopyComplete
+C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Server\obj\Debug\net6.0\eTicaret.17834C87.Up2Date
 C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Server\obj\Debug\net6.0\eTicaretSitesi.Server.dll
 C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Server\obj\Debug\net6.0\refint\eTicaretSitesi.Server.dll
 C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Server\obj\Debug\net6.0\eTicaretSitesi.Server.pdb
 C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Server\obj\Debug\net6.0\eTicaretSitesi.Server.genruntimeconfig.cache
 C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Server\obj\Debug\net6.0\ref\eTicaretSitesi.Server.dll
-C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Server\obj\Debug\net6.0\eTicaretSitesi.Server.sourcelink.json

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "G4FeJJBUBsEyK30D4Xir02E230q8Sm3k5MDxGVW+Gi+tqMwHdcdz1WStOvg/+mdM6UU3evQ7i1wxov0yaqBHQQ==",
+  "dgSpecHash": "zwezXQszbxRhMXaXIoeg7IE7aUikA/q+OZWgXKB6ssFL2uI1HOoj6R6gZj/6aAH0E/QgWvhYSMncmYxMD6afdw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ömer\\Desktop\\eTicaretSitesi\\eTicaretSitesi\\Client\\eTicaretSitesi.Client.csproj",
   "expectedPackageFiles": [
@@ -30,12 +30,13 @@
     "C:\\Users\\Ömer\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.25\\microsoft.jsinterop.webassembly.6.0.25.nupkg.sha512",
     "C:\\Users\\Ömer\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
     "C:\\Users\\Ömer\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512",
-    "C:\\Users\\Ömer\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.1\\microsoft.net.sdk.webassembly.pack.8.0.1.nupkg.sha512",
+    "C:\\Users\\Ömer\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.3\\microsoft.net.sdk.webassembly.pack.8.0.3.nupkg.sha512",
     "C:\\Users\\Ömer\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\Ömer\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
     "C:\\Users\\Ömer\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\Ömer\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
-    "C:\\Users\\Ömer\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+    "C:\\Users\\Ömer\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ömer\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.28\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.28.nupkg.sha512"
   ],
   "logs": []
 }
