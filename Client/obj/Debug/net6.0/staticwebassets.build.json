@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Txacf5MOKtHU3b99C+v6gja7/hdIbfovV8sT9ufg/f4=",
+  "Hash": "6Q/uYAypQLeIvPb01dnxmtkeC8m+uVuyJHUChB4SY3I=",
   "Source": "eTicaretSitesi.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -7750,6 +7750,25 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Identity": "C:\\Users\\Ömer\\Desktop\\eTicaretSitesi\\eTicaretSitesi\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "SourceId": "eTicaretSitesi.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ömer\\Desktop\\eTicaretSitesi\\eTicaretSitesi\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
+    },
+    {
       "Identity": "C:\\Users\\Ömer\\Desktop\\eTicaretSitesi\\eTicaretSitesi\\Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "eTicaretSitesi.Client",
       "SourceType": "Discovered",
@@ -7862,25 +7881,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
-    },
-    {
-      "Identity": "C:\\Users\\Ömer\\Desktop\\eTicaretSitesi\\eTicaretSitesi\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
-      "SourceId": "eTicaretSitesi.Client",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ömer\\Desktop\\eTicaretSitesi\\eTicaretSitesi\\Client\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
       "Identity": "C:\\Users\\Ömer\\Desktop\\eTicaretSitesi\\eTicaretSitesi\\Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",

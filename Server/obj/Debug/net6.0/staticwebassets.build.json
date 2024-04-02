@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9Pd/e77vfCPsjqhGcwFXpM+rDz1WKPiX2N0V13u0/eQ=",
+  "Hash": "fWtgYzkn7i2aE3ubl7d+NSWanUymcwYXesHV4PCKtSQ=",
   "Source": "eTicaretSitesi.Server",
   "BasePath": "_content/eTicaretSitesi.Server",
   "Mode": "Default",
@@ -11,10 +11,10 @@
       "Version": 2,
       "Source": "eTicaretSitesi.Client",
       "GetPublishAssetsTargets": "ComputeFilesToPublish;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "_PublishingBlazorWasmProject=true;BuildProjectReferences=false;ResolveAssemblyReferencesFindRelatedSatellites=true;Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishProperties": "_PublishingBlazorWasmProject=true;BuildProjectReferences=false;ResolveAssemblyReferencesFindRelatedSatellites=true",
       "AdditionalPublishPropertiesToRemove": "NoBuild;RuntimeIdentifier;WebPublishProfileFile;TargetFramework",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildProperties": "",
       "AdditionalBuildPropertiesToRemove": "RuntimeIdentifier;SelfContained;WebPublishProfileFile;TargetFramework"
     }
   ],
@@ -7743,6 +7743,25 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Identity": "C:\\Users\\Ömer\\Desktop\\eTicaretSitesi\\eTicaretSitesi\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "SourceId": "eTicaretSitesi.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Ömer\\Desktop\\eTicaretSitesi\\eTicaretSitesi\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
+    },
+    {
       "Identity": "C:\\Users\\Ömer\\Desktop\\eTicaretSitesi\\eTicaretSitesi\\Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "eTicaretSitesi.Client",
       "SourceType": "Project",
@@ -7855,25 +7874,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
-    },
-    {
-      "Identity": "C:\\Users\\Ömer\\Desktop\\eTicaretSitesi\\eTicaretSitesi\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
-      "SourceId": "eTicaretSitesi.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Ömer\\Desktop\\eTicaretSitesi\\eTicaretSitesi\\Client\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
       "Identity": "C:\\Users\\Ömer\\Desktop\\eTicaretSitesi\\eTicaretSitesi\\Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",

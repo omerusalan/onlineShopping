@@ -10,6 +10,16 @@
         transform:scale(1.2)
     }
 
+.media[b-e6xiteswvd] {
+    display: flex;
+    align-items: flex-start;
+
+}
+
+.media-body[b-e6xiteswvd]{
+    flex:1;
+}
+
 .media-img-wrapper[b-e6xiteswvd] {
     width: 200px;
     text-align: center;
