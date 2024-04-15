@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eTicaretSitesi.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1dd99531caac70d9801af5e4134327647dea42ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9df81c4273944b099b8c7e4e503f9f963352aaf3")]
 [assembly: System.Reflection.AssemblyProductAttribute("eTicaretSitesi.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eTicaretSitesi.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

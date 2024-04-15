@@ -1,7 +1,7 @@
 {
   "entryAssembly": "eTicaretSitesi.Client",
   "resources": {
-    "hash": "sha256-gw/fK9YjqMPHAK4v7qRsrt4+XScbpjNTc5rG/Y/1sZI=",
+    "hash": "sha256-KXAHsCkROFHMmTRTkTuzNG9HOz6gL186IO/SwCsNisQ=",
     "runtime": {
       "dotnet.6.0.28.hyoff90jcv.js": "sha256-PYXBt6AuhzWXVEEyGsbAwIvVsAbcDs2FnKYIkVYqLqA=",
       "dotnet.timezones.blat": "sha256-hKZ27N25m01CP4HR0RFvVj2dU0Cw2+EqatmI4zCXdHc=",
@@ -200,12 +200,12 @@
       "mscorlib.dll": "sha256-5c+M6kT5xF9IJ6/416Uyje0rLaSDyuA3IO3sl1gZFD4=",
       "netstandard.dll": "sha256-dNc8HG6nSitRZLGm62pNV31OxqYD8cZWMQdEiEY2PoI=",
       "System.Private.CoreLib.dll": "sha256-DY0iniEv267nIHL2QYLumeOp/cacu4sjj6qQTgznF3A=",
-      "eTicaretSitesi.Shared.dll": "sha256-oKsfZMxKU1aSZ+ywhAg1lzbRX8sbfzvT/STfjsXYeME=",
-      "eTicaretSitesi.Client.dll": "sha256-NsrjG1vi1quQYlwwK01iux5hT/5P2ZI5VqfyGfjDfqY="
+      "eTicaretSitesi.Shared.dll": "sha256-iXMt8VYLXn8IzWEoDZZc/uM2pGSxyywhToCxhdnWuWc=",
+      "eTicaretSitesi.Client.dll": "sha256-ZaJDMpqHbbxbWXm9aKQgpRCezieWnzjonlZcO2CnsOo="
     },
     "pdb": {
-      "eTicaretSitesi.Shared.pdb": "sha256-UmSTCw2gVXv9RlUA11KKwAU6B1hm6blmxXhj1O9qjsw=",
-      "eTicaretSitesi.Client.pdb": "sha256-urV41ZF+KB1oer6tpaAdkWGTJ5Q+8WsZYYRYKfxhI18="
+      "eTicaretSitesi.Shared.pdb": "sha256-jCuznAWD+VXbtt4yuO+EM07nVjNL5aAZgZblhYrTS5c=",
+      "eTicaretSitesi.Client.pdb": "sha256-7g3v3gqCLQl5smE8PME9q3kyfbHqTpEDUubcNaCM+6c="
     },
     "runtimeAssets": {
       "dotnet.wasm": {
