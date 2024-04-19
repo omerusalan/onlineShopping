@@ -827,3 +827,4 @@ C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Client\obj\Debug\net6.0\ref
 C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Client\obj\Debug\net6.0\eTicaretSitesi.Client.pdb
 C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Client\obj\Debug\net6.0\ref\eTicaretSitesi.Client.dll
 C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Client\obj\Debug\net6.0\scopedcss\Shared\EProductList.razor.rz.scp.css
+C:\Users\Ömer\Desktop\eTicaretSitesi\eTicaretSitesi\Client\obj\Debug\net6.0\scopedcss\Pages\ProductDetails.razor.rz.scp.css

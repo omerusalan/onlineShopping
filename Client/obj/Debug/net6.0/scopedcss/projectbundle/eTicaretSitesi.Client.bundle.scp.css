@@ -1,3 +1,27 @@
+/* /Pages/ProductDetails.razor.rz.scp.css */
+.media-img[b-jetg3jl01e]{
+    max-height: 500px;
+    max-width: 500px;
+    border-radius: 6px;
+    margin: 0 10px 10px 10px;
+}
+
+.media-img-wrapper[b-jetg3jl01e]{
+    max-width:500px;
+    max-height:500px;
+    text-align:center;
+}
+
+@media(max-width: 1023.98px){
+    .media-img[b-jetg3jl01e]{
+        max-width: 300px;
+    }
+
+    .media-img-wrapper[b-jetg3jl01e]{
+        width:100%;
+        height: auto;
+    }
+}
 /* /Shared/EProductList.razor.rz.scp.css */
 .media-img[b-e6xiteswvd]{
     max-height: 200px;
@@ -24,10 +48,6 @@
 .media-img-wrapper[b-e6xiteswvd] {
     width: 200px;
     text-align: center;
-}
-
-.price[b-e6xiteswvd]{
-    color: green;
 }
 
 @media (max-width: 1023.98px){

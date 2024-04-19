@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{8D5BF55F-195B-49EA-8F85-9D3F26DE3FFC}|Client\\eTicaretSitesi.Client.csproj|solutionrelative:client\\pages\\productdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6AC9E1D-33D4-48DF-B1B9-F81B308A900E}|Shared\\eTicaretSitesi.Shared.csproj|c:\\users\\\u00F6mer\\desktop\\eticaretsitesi\\eticaretsitesi\\shared\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6AC9E1D-33D4-48DF-B1B9-F81B308A900E}|Shared\\eTicaretSitesi.Shared.csproj|solutionrelative:shared\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D5BF55F-195B-49EA-8F85-9D3F26DE3FFC}|Client\\eTicaretSitesi.Client.csproj|c:\\users\\\u00F6mer\\desktop\\eticaretsitesi\\eticaretsitesi\\client\\shared\\eproductlist.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8D5BF55F-195B-49EA-8F85-9D3F26DE3FFC}|Client\\eTicaretSitesi.Client.csproj|solutionrelative:client\\shared\\eproductlist.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5BF55F-195B-49EA-8F85-9D3F26DE3FFC}|Client\\eTicaretSitesi.Client.csproj|c:\\users\\\u00F6mer\\desktop\\eticaretsitesi\\eticaretsitesi\\client\\pages\\productdetails.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8D5BF55F-195B-49EA-8F85-9D3F26DE3FFC}|Client\\eTicaretSitesi.Client.csproj|solutionrelative:client\\pages\\productdetails.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D5BF55F-195B-49EA-8F85-9D3F26DE3FFC}|Client\\eTicaretSitesi.Client.csproj|c:\\users\\\u00F6mer\\desktop\\eticaretsitesi\\eticaretsitesi\\client\\shared\\eproductlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -17,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{8D5BF55F-195B-49EA-8F85-9D3F26DE3FFC}|Client\\eTicaretSitesi.Client.csproj|c:\\users\\\u00F6mer\\desktop\\eticaretsitesi\\eticaretsitesi\\client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8D5BF55F-195B-49EA-8F85-9D3F26DE3FFC}|Client\\eTicaretSitesi.Client.csproj|solutionrelative:client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AC9E1D-33D4-48DF-B1B9-F81B308A900E}|Shared\\eTicaretSitesi.Shared.csproj|c:\\users\\\u00F6mer\\desktop\\eticaretsitesi\\eticaretsitesi\\shared\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AC9E1D-33D4-48DF-B1B9-F81B308A900E}|Shared\\eTicaretSitesi.Shared.csproj|solutionrelative:shared\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D5BF55F-195B-49EA-8F85-9D3F26DE3FFC}|Client\\eTicaretSitesi.Client.csproj|c:\\users\\\u00F6mer\\desktop\\eticaretsitesi\\eticaretsitesi\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,20 +58,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDetails.razor.css",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\eTicaretSitesi\\eTicaretSitesi\\Client\\Pages\\ProductDetails.razor.css",
+              "RelativeDocumentMoniker": "Client\\Pages\\ProductDetails.razor.css",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\eTicaretSitesi\\eTicaretSitesi\\Client\\Pages\\ProductDetails.razor.css",
+              "RelativeToolTip": "Client\\Pages\\ProductDetails.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-19T20:30:48.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EProductList.razor.css",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\eTicaretSitesi\\eTicaretSitesi\\Client\\Shared\\EProductList.razor.css",
+              "RelativeDocumentMoniker": "Client\\Shared\\EProductList.razor.css",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\eTicaretSitesi\\eTicaretSitesi\\Client\\Shared\\EProductList.razor.css",
+              "RelativeToolTip": "Client\\Shared\\EProductList.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-19T20:28:53.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProductDetails.razor",
               "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\eTicaretSitesi\\eTicaretSitesi\\Client\\Pages\\ProductDetails.razor",
               "RelativeDocumentMoniker": "Client\\Pages\\ProductDetails.razor",
               "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\eTicaretSitesi\\eTicaretSitesi\\Client\\Pages\\ProductDetails.razor",
               "RelativeToolTip": "Client\\Pages\\ProductDetails.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-17T21:50:29.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "EProductList.razor",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\eTicaretSitesi\\eTicaretSitesi\\Client\\Shared\\EProductList.razor",
+              "RelativeDocumentMoniker": "Client\\Shared\\EProductList.razor",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\eTicaretSitesi\\eTicaretSitesi\\Client\\Shared\\EProductList.razor",
+              "RelativeToolTip": "Client\\Shared\\EProductList.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T18:35:57.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ServiceResponse.cs",
               "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\eTicaretSitesi\\eTicaretSitesi\\Shared\\ServiceResponse.cs",
               "RelativeDocumentMoniker": "Shared\\ServiceResponse.cs",
@@ -71,12 +118,11 @@
               "RelativeToolTip": "Shared\\ServiceResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T21:18:22.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T21:18:22.095Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\eTicaretSitesi\\eTicaretSitesi\\Client\\_Imports.razor",
               "RelativeDocumentMoniker": "Client\\_Imports.razor",
@@ -89,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\eTicaretSitesi\\eTicaretSitesi\\Client\\Program.cs",
               "RelativeDocumentMoniker": "Client\\Program.cs",
@@ -97,12 +143,11 @@
               "RelativeToolTip": "Client\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T19:48:09.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T19:48:09.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\eTicaretSitesi\\eTicaretSitesi\\Client\\Services\\ProductService\\ProductService.cs",
               "RelativeDocumentMoniker": "Client\\Services\\ProductService\\ProductService.cs",
@@ -110,12 +155,11 @@
               "RelativeToolTip": "Client\\Services\\ProductService\\ProductService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T19:15:46.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T19:15:46.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\eTicaretSitesi\\eTicaretSitesi\\Client\\Services\\ProductService\\IProductService.cs",
               "RelativeDocumentMoniker": "Client\\Services\\ProductService\\IProductService.cs",
@@ -123,21 +167,7 @@
               "RelativeToolTip": "Client\\Services\\ProductService\\IProductService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T19:15:23.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EProductList.razor",
-              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\eTicaretSitesi\\eTicaretSitesi\\Client\\Shared\\EProductList.razor",
-              "RelativeDocumentMoniker": "Client\\Shared\\EProductList.razor",
-              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\eTicaretSitesi\\eTicaretSitesi\\Client\\Shared\\EProductList.razor",
-              "RelativeToolTip": "Client\\Shared\\EProductList.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T18:35:57.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T19:15:23.232Z"
             }
           ]
         }
